@@ -1,4 +1,4 @@
-#Notes
+# Notes
 
 Made according to BradTravesy's youtube tutorial.<br />
 First version had issues which seemed to be caused by having comments within return statements.
