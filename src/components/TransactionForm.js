@@ -21,6 +21,7 @@ export const TransactionForm = () => {
         }
 
         addTransaction(newTransaction);
+        
     }
 
     return(<>
