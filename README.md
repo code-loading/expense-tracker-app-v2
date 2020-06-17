@@ -1,8 +1,8 @@
 #Notes
 
-Made according to BradTravesy's youtube tutorial.
+Made according to BradTravesy's youtube tutorial.<br />
 First version had issues which seemed to be caused by having comments within return statements.
-App is live <a href="http://ehsan-expense-app.surge.sh/">here</a>.
+App is live <a href="http://ehsan-expense-app.surge.sh/">here</a>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
