@@ -5,7 +5,7 @@ export const TransactionForm = () => {
     
     
     const [text, setText] = useState('');
-    const [amount, setAmount] = useState(0);
+    const [amount, setAmount] = useState('');
 
     
     const { addTransaction } = useContext(GlobalContext);
