@@ -17,7 +17,7 @@ function App() {
       <IncomeExpense/>
       <History/>
       <TransactionForm/>
-      Github repo of this project: <a href="https://github.com/code-loading/expense-tracker-app-v2">code-loading's expense-app-vs</a>
+      Github repo of this project: <a href="https://github.com/code-loading/expense-tracker-app-v2">code-loading's expense-app-v2</a>
       </div>
     </GlobalProvider>
   );

@@ -1,8 +1,15 @@
 #Notes
 
-Made according to BradTravesy's youtube tutorial.<br />
-First version had issues which seemed to be caused by having comments within return statements.
-App is live <a href="http://ehsan-expense-app.surge.sh/">here</a>
+I learnt following things through this project:<br/>
+using state<br/>
+using context<br/>
+using reducer<br/>
+using flexbox in css<br/>
+making a dynamic form (new text input field appears if other is selected in drop down menu)<br/>
+App is live <a href="http://ehsan-expense-app.surge.sh/">here</a><br/>
+
+## Known issues:
+If other is selected and custom value entered and form submitted, then if other is selected again, the previous value shows up in the dynamic input field but that value must be changed to be used. I tried fixing it but after spending almost 2 days decided it was not worth more of my time at the moment. 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
