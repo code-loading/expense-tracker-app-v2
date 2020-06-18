@@ -6,7 +6,7 @@ name: React App Deploy to Surge
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [ master, new_stuff ]
   pull_request:
     branches: [ master ]
 

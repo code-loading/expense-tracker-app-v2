@@ -1,4 +1,4 @@
-#Notes
+# Notes
 
 I learnt following things through this project:<br/>
 using state<br/>

@@ -6,11 +6,15 @@ import {Balance} from './components/Balance';
 import {IncomeExpense} from './components/IncomeExpense';
 import {TransactionForm} from './components/TransactionForm';
 import {History} from './components/History';
-import { GlobalProvider } from './context/GlobalState';
+//import { GlobalProvider, GlobalContext } from './context/GlobalState';
+//import { GlobalContext } from './context/GlobalState';
+
+
 
 function App() {
+  
   return (
-    <GlobalProvider>
+      <>
       <Header/>
       <div className="container">
       <Balance/>
@@ -19,7 +23,7 @@ function App() {
       <TransactionForm/>
       Github repo of this project: <a href="https://github.com/code-loading/expense-tracker-app-v2">code-loading's expense-app-v2</a>
       </div>
-    </GlobalProvider>
+    </>
   );
 }
 
