@@ -102,7 +102,7 @@ export const TransactionForm = () => {
 
             <div className="form-control">
                 <label htmlFor="amount"><strong>Amount:</strong> <br/>
-                Try submitting a value <strong>larger than +€{maxValue}</strong> or <strong>smaller than -€{maxValue}</strong>to see what happens!</label>
+                Try submitting a value <strong>larger than +€{maxValue}</strong> or <strong>smaller than -€{maxValue}</strong> to see what happens!</label>
                 <input type="number" value={amount} onChange={(e) => setAmount(e.target.value)} placeholder="Enter amount..." />
             </div>
             
