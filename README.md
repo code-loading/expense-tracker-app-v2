@@ -1,6 +1,6 @@
 # Notes
 
-I learnt following things through this project:<br/>
+I learnt the following things through this project:<br/>
 using state<br/>
 using context<br/>
 using reducer<br/>
