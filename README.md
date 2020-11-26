@@ -8,6 +8,7 @@ using flexbox in css<br/>
 making a dynamic form (new text input field appears if other is selected in drop down menu)<br/>
 App is live <a href="http://ehsan-expense-app.surge.sh/">here</a><br/>
 
+This app was made following [this](https://www.youtube.com/watch?v=XuFDcZABiDQ&t=458s&ab_channel=TraversyMedia) tutorial with further functional changes added by me.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
